@@ -1,2 +1,3 @@
 dry, horribly indented
 have found some traces of water in the red soil. 
+we are trying to make a sample out of it.
