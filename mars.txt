@@ -1,3 +1,7 @@
 dry, horribly indented
 have found some traces of water in the red soil. 
 we are trying to make a sample out of it.
+
+This is Delta/Mars, I have a msg for the master.
+Mars has been under precise supervision. 
+We will update you once we get the breakthrough
